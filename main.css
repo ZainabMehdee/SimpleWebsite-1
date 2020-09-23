@@ -1,0 +1,45 @@
+body {background-color: lavenderblush;
+      background-image: url(https://previews.123rf.com/images/liveincosmos/liveincosmos1802/liveincosmos180200015/95952825-abstract-pastel-watercolor-background-.jpg);
+      background-image: url(https://wallpaperset.com/w/full/c/e/d/241767.jpg);
+      background-image: url(https://images.wallpaperscraft.com/image/paint_pastel_gradient_125821_1920x1080.jpg);
+      background-image: url(https://images.wallpaperscraft.com/image/alarm_clock_minimalism_pink_120744_1920x1080.jpg);
+}
+
+*{
+    font-family: 'Epilogue', sans-serif;
+}
+.hello{
+    color: rgb(231, 151, 151);
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.hello:hover{
+    color: brown;
+}  
+
+h1:hover {
+color: rgb(55, 0, 184);
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+#date{
+    text-align: center;
+     text-shadow: hotpink;
+
+}
+ul {
+    text-align: left;   
+    font-size: large;
+    font-weight: 900;
+    font-style: italic; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+}
