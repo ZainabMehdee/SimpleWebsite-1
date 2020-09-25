@@ -43,3 +43,12 @@ ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 100px;
 }
+
+h2 { text-align: right;
+    font-style: italic;
+    font-family: 'Epilogue', sans-serif;
+    font-size: small;
+    color: slateblue;
+
+
+}
