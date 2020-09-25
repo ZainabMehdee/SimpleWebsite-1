@@ -47,8 +47,12 @@ ul {
 h2 { text-align: right;
     font-style: italic;
     font-family: 'Epilogue', sans-serif;
-    font-size: small;
+    font-size: smaller;
     color: slateblue;
 
 
+}
+p {
+    font-weight: 900;
+    text-align: left;
 }
