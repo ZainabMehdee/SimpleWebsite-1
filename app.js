@@ -1,6 +1,6 @@
 // document.querySelector is a function that returns an object. It gets an object. The object in this case is .hello 
 // Click is predefined. THe eventistener listens for an event. IN this case the event is click.
-// InnerHTML is a text. Hello represents the element.
+// InnerHTML is a text. hello is a variable which represents the element.
 
 'use strict';
 console.log('This is a weird piece of code.');
